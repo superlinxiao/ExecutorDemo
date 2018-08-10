@@ -102,6 +102,7 @@ public class FourExecutorActivity extends AppCompatActivity {
         }
       });
     }
+//    singleThreadExecutor.shutdownNow();
   }
 
 }
